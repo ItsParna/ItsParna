@@ -8,7 +8,7 @@
   
 ### Connect with me:
 <div id="badges">
-  <a href="https://linkedin.com/parna-chakrabarti-09265625a">
+  <a href="https://www.linkedin.com/in/parna-chakrabarti/">
     <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
   </a>
   <a href="https://github.com/ItsParna">
